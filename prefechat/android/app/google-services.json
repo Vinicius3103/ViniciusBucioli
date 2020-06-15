@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60900409062",
+    "firebase_url": "https://prefchat.firebaseio.com",
+    "project_id": "prefchat",
+    "storage_bucket": "prefchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60900409062:android:aaee8615bb05379d26c527",
+        "android_client_info": {
+          "package_name": "vinicius.prefechat.prefechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60900409062-q8jstqklorugqc9q2a6l8385h8uopvep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKIFZT9ASCBcgBNPRWaUeNX2jBAIsMFC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60900409062-q8jstqklorugqc9q2a6l8385h8uopvep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
